@@ -251,6 +251,12 @@ async def get_fortune_async(saju_data):
 - 개인정보(생년월일)는 암호화하여 저장
 - AI 해석 결과는 참고용이며 의사결정에 절대적 기준이 아님을 명시
 
+  ## 👥 팀원 및 역할
+
+- **김상혁 팀장**: PPT자료 및 정의서/명세서 담당
+- **권혁민 팀원**: gemini AI기반 API적극 활용 간단한 AI 사주풀이 
+- **이지한 팀원**: AI 정보활용 및 사주풀이 사이트 비교 및 다른 open source 참조
+
 ## 📧 문의
 
 - Email: johnkwon33@gmail.com
