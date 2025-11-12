@@ -132,7 +132,8 @@ python model_trainer.py
 
 ### 6. 프로그램 실행
 ```bash
-python app.py
+커맨드창 cmd실행 cd python 이동 
+python streamlit run app_fixed.py
 ```
 
 ### 7. 사용 예시
